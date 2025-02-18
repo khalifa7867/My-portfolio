@@ -11,7 +11,7 @@
    - 🔗 **N8N** (Workflow automation)
    - 🌀 **Flowise** (AI-driven workflows)
    - 📄 JSON (Data handling)
-   - ☁️ **Azure AI** (Cloud-based AI solutions)
+   - ☁️ Using **Azure AI** , **Open AI** done (Cloud-based AI solutions)
 
 ## 🏆 Achievements
 
@@ -25,7 +25,8 @@
 🔹 Implemented **AI for sentence rephrasing and grammar correction** using **JS, N8N, Flowise, and Azure AI**.
 🔹 Automated **content posting to Slack channels** for product teams and stakeholders.
 🔹 Generated **AI-driven timelines for incident resolution**, reducing manual work from **15 minutes to 3 minutes**.
-🔹 Developing **AI RAG module** for first-level **NOC tasks and automation scenarios**.
+🔹 Developing AI RAG module for first-level NOC tasks and automation scenarios.
+🔹 Trained AI models to improve incident classification, response automation, and workflow optimization.
 
 ## 📈 Passion & Vision
 
